@@ -1,2 +1,2 @@
-# NBCU-email
+#email-template
 Email template
