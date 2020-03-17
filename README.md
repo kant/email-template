@@ -1,2 +1,2 @@
-#email-template
+# email-template
 Email template
